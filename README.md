@@ -1,15 +1,14 @@
-![Header](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+![Header](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="50" />
   Hi 👋, I'm Nada Ali
 </h1>
-<h3 align="center">Software Engineer 🚀 | Flutter Developer</h3>
+<h3 align="center">Flutter Developer 🚀 | Software Engineer</h3>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&width=435&lines=Software+Engineer;Passionate+about+Mobile+Apps;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&width=435&lines=Flutter+Developer;Software+Engineer;Passionate+about+Mobile+Apps;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
@@ -70,5 +69,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&width=435&lines=Thanks+for+visiting+my+profile!+%F0%9F%98%89" alt="Thank You Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&width=435&lines=Flutter+Developer;Thanks+for+visiting+my+profile!+♥♥+%F0%9F%98%89" alt="Thank You Animation" />
 </p>
