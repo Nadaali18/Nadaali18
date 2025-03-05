@@ -107,7 +107,3 @@
 </p>
 
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&width=435&lines=Flutter+Developer;Thanks+for+visiting+my+profile!+♥♥+%F0%9F%98%89" alt="Thank You Animation" />
-</p>
