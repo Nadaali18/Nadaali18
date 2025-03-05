@@ -1,9 +1,10 @@
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGlhM2YzemM2YWN3eGtqaTQ5Ym8xYjhndTBtMDIzbzRwdGwyZ2lsYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" height = "350px"/>
 
 
 <h1 align="center">
   Hi 👋, I'm Nada Ali
 </h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&width=600&lines=Flutter+Developer+🚀+|+Software+Engineer" alt="Typing SVG" /></h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&width=600&lines=Flutter+Developer+🚀+||+Software+Engineer" alt="Typing SVG" /></h3>
 
 ---
 
@@ -13,7 +14,7 @@
 - 🎯 Detail-oriented and highly skilled **Software Engineer**.
 - 💡 Passionate about **UI/UX design**, **state management**, and **Dart programming**.
 - 🚀 Always learning and staying up-to-date with **new technologies**.
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Nadaali18) ❤️.
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Nadaali18) 💖.
 - 📫 How to reach me: **nadaeloksh55@gmail.com**.
 
 ---
@@ -91,10 +92,24 @@
 ## 📫 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nada-ali-747142261/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nada-ali-747142261/" height="30" width="40" /></a>  
-<a href="https://www.facebook.com/profile.php?id=100053323805841?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100053323805841" height="30" width="40" /></a> 
-<a href="https://codeforces.com/profile/nadaalii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/nadaalii" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nada-ali-747142261" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://www.facebook.com/profile.php?id=100053323805841" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-0D6EFD?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+
+  <a href="https://codeforces.com/profile/nadaalii" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-E4405F?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+  </a>
+
+  <a href="mailto:nadaeloksh55@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
+
+
 
 ---
 
@@ -103,7 +118,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&width=435&lines=Thanks+for+visiting+my+profile!+♥+♥+%F0%9F%98%89" alt="Thank You Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&width=500&lines=Thanks+for+visiting+my+profile!+💖" alt="Thank You Animation" />
 </p>
 
 
