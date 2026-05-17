@@ -4,87 +4,86 @@
 <h1 align="center">
   Hi 👋, I'm Nada Ali
 </h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&width=600&lines=Flutter+Developer+🚀+||+Software+Engineer" alt="Typing SVG" /></h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&width=230&lines=Flutter+Developer" alt="Typing SVG" /></h3>
 
 ---
 
 
 ## 🌟 About Me
 
-- 🎯 Detail-oriented and highly skilled **Software Engineer**.
-- 💡 Passionate about **UI/UX design**, **state management**, and **Dart programming**.
+- 🎯 Detail-oriented and highly skilled **Flutter Developer**.
 - 🚀 Always learning and staying up-to-date with **new technologies**.
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Nadaali18) 💖.
-- 📫 How to reach me: **nadaeloksh55@gmail.com**.
+- 👨‍💻 Graduate of the Faculty of **Computers and Information**, **CS** Department.
+- 🧾 [My CV](https://drive.google.com/file/d/1byvJMM-OF2gua1WGLG7srSRmd8J6rbUR/view?usp=drive_link)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadaali18&label=Profile%20views&color=8A2BE2&style=flat" alt="nadaali18" /> </p>
 
 ---
 
-## 🚀 Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="center">
   <!-- First Row -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+ <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+ <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/>
   </a>
-</p>
-
-<p align="center">
-  <!-- Second Row -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+ <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
   </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+    <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
+  </a>
+  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="50" height="50"/> 
+ </a>
+ <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50"/> 
+ </a>
+ <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> 
+ </a>
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
+ </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
-  </a>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats & Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadaali18&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=nadaali18&show_icons=true&theme=tokyonight"
+    width="48%"
+    height="195"
+  />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nadaali18&layout=compact&theme=tokyonight"
+    width="48%"
+    height="195"
+  />
 </p>
 
 ---
 
-## 🔥 Most Used Languages
+## Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nadaali18&layout=compact&theme=radical" alt="Most Used Languages"/>
+<img
+    src="https://github-profile-trophy.vercel.app/?username=nadaali18&theme=tokyonight&row=1&column=6"
+  />
 </p>
 
 ---
@@ -109,16 +108,10 @@
   </a>
 </p>
 
-
-
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/nadaali18/count.svg" alt="Visitor Count" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&width=500&lines=Thanks+for+visiting+my+profile!+💖" alt="Thank You Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&width=500&lines=Thanks+for+visiting+my+profile!" alt="Thank You Animation" />
 </p>
 
 
